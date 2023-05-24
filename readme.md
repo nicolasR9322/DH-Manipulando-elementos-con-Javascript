@@ -38,4 +38,16 @@ descripcion: El objetivo será añadir nuevas caracteristicas al sitio web, como
             - color de fondo = teal
             - relleno = 20px
 
+    desafio 3:
+        -crear un archivo Javascript y vincularlo con moviesAdd.ejs
+
+        -desde el archivo creado capturar los siguientes elementos
+            - <h1> , <section> , <article>
         
+        -agregar a la etiqueta h1 el mensaje "AGREGAR PELÍCULAS"
+
+        -agregar a la etiqueta h1 la clase "titulo"
+
+        -agregar al articulo la clase "fondoTransparente"
+
+        -agregar a la seccion la clase "fondoCrud" 
