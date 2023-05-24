@@ -21,3 +21,21 @@ descripcion: El objetivo será añadir nuevas caracteristicas al sitio web, como
         - a la etiqueta a colocarle el estilo correspondiente para que asuma el color #E51B3E
 
         - establecer como visible la etiqueta main aplicandole display: block;
+    
+    desafio 2:
+        -crear un archivo javascript y vincularlo con moviesList.ejs
+
+        -desde el archivo creado capturar los siguientes elementos
+            - <body> y <h1>
+
+        -haciendo uso del prompt, preguntar al usuario si desea el modo oscuro, caso afirmativo agregarle al body el color de fondo #7f7f7f
+        (cambiado a confirm para mejor interpretacion)
+
+        -agregar la etiqueta h1 el mensaje "LISTADO DE PELÍCULAS"
+
+        - agregar al h1 los siguientes estilos
+            - color = white
+            - color de fondo = teal
+            - relleno = 20px
+
+        
